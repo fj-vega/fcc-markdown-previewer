@@ -25,5 +25,5 @@ alert(s);
 ![react logo](https://i.postimg.cc/Bv9y8sBZ/react-logo.png)
 <br>
 
-Coded by **Stahlone**, 2019 for [freeCodeCamp](https://www.freecodecamp.org) Front End Libraries Challenges
+Coded by **FJ**, 2019 for [freeCodeCamp](https://www.freecodecamp.org) Front End Libraries Challenges
 `;
